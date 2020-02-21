@@ -1,0 +1,10 @@
+.tipList {
+    flex-basis: 20%;
+    border: 1px solid white
+}
+
+.tip {
+    margin: 1rem 0 2rem 0;
+    color:white;
+    padding:5px;
+}

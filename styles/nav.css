@@ -1,0 +1,18 @@
+
+.navigation {
+    
+    
+}
+
+.navigation__link {
+    padding: 0 1em 0 1em;
+    color:#ffffff;
+    font-size:16pt;
+    text-decoration:none;
+    text-align: center;
+}
+
+.navigation a:hover{
+    text-decoration: underline;
+}
+
