@@ -1,6 +1,7 @@
 @import "fish.css";
 @import "nav.css";
 @import "tips.css";
+@import "locations.css";
 
 h1,h3{
     text-align: center;
