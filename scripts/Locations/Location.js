@@ -10,6 +10,7 @@ const  LocationHTML= (location) => {
             <div class="dialogButton">
                 <button id="button--${location.name}">Details</button>   
                 <dialog class="dialog--location" id="details--${location.name}">
+                    <div>Temprature: ${location.temprature}</div>
                     <button class="button--close">Close Dialog</button>
                 </dialog>
             </div>        

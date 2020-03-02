@@ -21,4 +21,6 @@ const Fish = (fish) => {
         </div>
     `
 }
+
+
 export default Fish

@@ -31,4 +31,5 @@ for (const btn of allDetailButtons) {
     )
 }
 }
+
 export default initializeDetailButtonEvents;
